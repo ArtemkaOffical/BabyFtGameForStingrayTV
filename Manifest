@@ -1,0 +1,7 @@
+{
+	"id": "BabyFT",
+	"display":{ 
+        "name":"Детские сказки","icon":"resources/icon.png"
+    },
+	"application": { }
+}
